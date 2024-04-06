@@ -1,0 +1,5 @@
+Sterowanie Pionkami:
+-kliknij myszką na dowolnego pionka - powinien zrobić się czerwony
+-następnie wybierz pole na które chcesz się przesunąć
+-aby odznaczyć pionka kliknij na niego ponownie lub kliknij w innego pionka
+-aby usunąć go z szachownicy nacisnij 'd'
