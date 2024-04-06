@@ -1,5 +1,5 @@
 # Portfolio
-All interesting projects that can show you my coding abilities!
+All interesting projects that can show you my skills & abilities!
 
 # Interactive Checkers
 It is a simple web project where i used THREEJS library to create an interactive checkers.
