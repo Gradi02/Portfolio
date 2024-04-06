@@ -16,6 +16,7 @@ After finished wave you have an option to upgrade your stats with points you got
 You have also option buy artefacts that can give you unique special powers to make the fight easier.
 
 Link to our Repository: https://github.com/Gradi02/GieraOnline
+Link to project on Itch.io: https://tobkubos.itch.io/brozard
 
 ![image](https://github.com/Gradi02/Portfolio/assets/113831512/cba9cb46-cd60-49ce-860c-b796a763ccff)
 ![image](https://github.com/Gradi02/Portfolio/assets/113831512/a2c81cef-67a0-48cf-b173-8449bcf93d89)
